@@ -1,0 +1,22 @@
+.new {max-width: 750px; margin-top: 20px}
+
+.title { color: #157094; font-weight: 700; font-size: 36px; font-family: 'Roboto', sans-serif; text-transform: uppercase;
+ margin-top: 10px;}
+
+ .subtitle { color: #157094; font-weight: 700; font-size: 26px; font-family: 'Roboto', sans-serif; text-transform: uppercase;
+ margin-top: 30px;}
+
+
+.img-new {text-align: center;}
+.img-new img {max-width: 800px; width: 100%; margin-bottom: 10px; }
+
+
+
+p {margin-bottom: 20px;}
+figure {margin-bottom: 10px;}
+figcaption {text-align: left; font-size: 12px; color:#157094;}
+
+.info-new {color: #666; font-size: 13px; padding-left: 0; float: left;}
+.info-new li {list-style: none; float: left; margin-right: 20px;}
+.info-new i {margin-right: 6px; }
+

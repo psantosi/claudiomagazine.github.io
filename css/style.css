@@ -1,0 +1,17 @@
+body {font-family: 'Libre Baskerville', serif;}
+a {color: inherit;}
+
+h1.logo {background: url(../img/logo.png) no-repeat center; width: 100%; height: 95px; text-indent: -9999px; background-size: 150px}
+
+/* bordas */
+.border-right {border-right: 1px solid #ccc;}
+.border-left {border-left: 1px solid #ccc;}
+hr {border: 0; border-top: 1px solid #ccc;}
+
+/* Menu */
+.navbar {margin-top: 40px; margin-bottom: 0;}
+nav ul li a {color: #fff; font-weight: 600; font-family: 'Roboto', sans-serif; font-size: 14px; text-transform: uppercase;}
+
+/* footer */
+footer {background: #157094; padding: 20px 0; margin-top: 20px;}
+.right {color: #fff; font-family: 'Roboto', sans-serif; margin-bottom: 0; }

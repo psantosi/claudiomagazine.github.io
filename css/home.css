@@ -1,0 +1,19 @@
+/* Noticias */
+.news {margin-top: 50px;}
+.title-news {color: #157094; font-family: 'Roboto', sans-serif; font-size: 36px; margin-bottom: 0; margin-top: 5px; line-height: 40px;}
+.subtitle-news {color: #157094; font-family: 'Roboto', sans-serif; font-size: 26px; margin-bottom: 0; margin-top: 5px; line-height: 26px;}
+.description {color: #666; font-size: 13px; margin-top: 10px;} 
+
+/* Blog */
+.mini-blog {width: 100%; background: #157094; padding: 10px;}
+.title-blog {font-family: 'Roboto', sans-serif; text-transform: uppercase; color: #fff; margin-top: 14px; font-size: 22px; border-bottom: 1px solid; padding-bottom: 10px; margin-bottom: 28px;}
+.item {border-bottom: 1px solid #fff; margin-bottom: 11px;}
+.item:last-child {border: 0;}
+.item img {width: 50px; height: 50px; border-radius: 50%; background: #fff; float: left; margin-right: 12px;}
+.item .text {color: #fff; font-style: italic; padding-top: 6px;}
+.item .text a {color: #fff;}
+.item .nome {font-family: 'Roboto', sans-serif; color: #fff; margin-top: 16px; margin-bottom: 12px;}
+
+.noticia-menores {float: left; width: 100%;}
+.noticia-menores hr {width: 100%;}
+.noticia-menores img {height: 150px; width: 100%;}

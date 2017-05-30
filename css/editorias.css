@@ -1,0 +1,10 @@
+.title-page {color: #157094; font-weight: 700; font-size: 40px; margin: 40px 0; border-bottom: 1px solid; padding-bottom: 10px; font-family: 'Roboto', sans-serif; text-transform: uppercase;}
+
+.item {border-bottom: 1px solid #ccc;}
+.item a {display: block; float: left; padding-top: 30px; padding-bottom: 30px;}
+.item a:hover {background: #f8f8f8}
+.item img {border-radius: 10px;}
+.item .title-news {color: #157094; font-family: 'Roboto', sans-serif; font-size: 36px; line-height: 36px;}
+.item .description {color: #666; font-size: 13px;}
+.item .info {color: #666; font-size: 13px;}
+.item .info i {margin-right: 6px;}
